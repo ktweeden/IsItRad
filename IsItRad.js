@@ -2,10 +2,10 @@ function isItRad (tweet, radness) {
   var Twitter = require('twitter');
 
   var client = new Twitter({
-    consumer_key: "BklA9oEjW2gKS3c3SQVu3SFWR",
-    consumer_secret: "bB7648m2T6QX1ykRVfHLF2hDulfQ1apRbw7orcpUBZYsHUFcx9",
-    access_token_key: "1222446403-T9bnS3vInHkProcc2JYEIRCBpKRazxvP9lTkXox",
-    access_token_secret: "UFfuN9lQNulbLZVVumo1KFAGu2oRt5R3BoIdEEY874rWy",
+    consumer_key: "",
+    consumer_secret: "",
+    access_token_key: "",
+    access_token_secret: "",
   });
 
   var tag;
