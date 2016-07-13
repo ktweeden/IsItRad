@@ -1,0 +1,14 @@
+{
+  "name": "isitrad",
+  "version": "1.0.0",
+  "description": "A simple app that published rad tweets from the command line",
+  "main": "IsItRad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kate Preston",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.3.0"
+  }
+}
